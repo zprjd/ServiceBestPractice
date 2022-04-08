@@ -1,0 +1,2 @@
+rootProject.name = "ServiceBestPratice2"
+include ':app'
